@@ -10,11 +10,11 @@ I have three reasons for putting all of this on GitHub:
 * Perhaps future students of the course will find some of the information useful.
 * But most of all, I would like to show people that METU (my school) is not nearly as good as it is.
 
-I would like to expand on the last point. 
-Take a look at the slides, they are extremely unprofessional. Lots of typos, code excerpts that wouldn't work at all.
-Read the homework pdf files. We are forced to write our code the way it is stated on the pdf. Whoever prepares the homework assignments must be a world class idiot. We are not allowed to define functions that aren't stated in the pdf. 
+I would like to expand on the last point:
+* Take a look at the slides, they are extremely unprofessional. Lots of typos, code excerpts that wouldn't work at all.
+* Read the homework pdf files. We are forced to write our code the way it is stated on the pdf. Whoever prepares the homework assignments must be a world class idiot. We are not allowed to define functions that aren't stated in the pdf. 
 
-Enough rant,
+Enough rant.
 
 I hope someone will get some use out of this stuff.
 
