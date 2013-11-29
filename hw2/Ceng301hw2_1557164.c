@@ -206,7 +206,6 @@ int main() {
     double *numbersArray;
     double (*matrix)[3];
     int choice;
-    system("clear");
 
     while (1) {
         printf("1. Create 100000 random doubles.\n");
