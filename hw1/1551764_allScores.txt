@@ -1,0 +1,9 @@
+1711245 Ahmet Yılmaz 87.0 BA
+1621464 Ayşe Güngör 79.8 CB
+1772356 Duygu Kaya 41.1 FF
+1882453 Murat Yalçın 67.9 DC
+1557164 Can İbanoğlu 100.0 AA
+1234567 SSSSSSSSSdsdsdsd DSdsdasdakdakjdkajsdkajsd 15.0 FF
+Average: 65.13
+Standard Deviation: 28.89
+(>60): 4
